@@ -1,7 +1,7 @@
 SI4735 AM& FM Receiver Shield
 ===================
 
-[![SI4735 AM&FM Receiver Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/3/4/2/10342-01C_i_ma.jpg) 
+[![SI4735 AM&FM Receiver Shield](https://cdn.sparkfun.com/assets/parts/4/7/6/0/10342-01C.jpg) 
 *SI4735 AM & FM Receiver Shield(DEV-10342)*](https://www.sparkfun.com/products/retired/10342)
 
 This CMOS AM/FM radio receiver IC integrates the complete tuner function from antenna input to audio output and is broken out on 
